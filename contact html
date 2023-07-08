@@ -1,0 +1,23 @@
+<!DOCTYPE html>
+<html>
+  <meta charset="utf-8">
+  <title>saabiq's contact details</title>
+ </head>
+ <body>
+    <h1>My Contact Details</h1>
+    <hr>
+    <p>Gmail:saabiqsaadiq55@gmail.com</p>
+    <p>phone.no:9951446776</p>
+    <p>address:kinnersani,palwancha Mandal,Telangana</p>
+    <form action="mailto:b211137@rguku.ac.in" method="post" enctype="text/plain">
+        <label>Your Name:</label>
+        <input type="text" name="" id=""><br>
+        <label>Your email:</label>
+        <input type="email" ><br>
+        <label>Your message</label><br>
+        <textarea name="you" rows="10" cols="30"></textarea><br>
+
+        <input type="submit" name="" id="">
+    </form>
+ </body>
+ 
